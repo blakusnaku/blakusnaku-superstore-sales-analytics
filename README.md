@@ -122,7 +122,7 @@ This dashboard helps business teams to:
 
 ---
 
-## 🪞 Brand Identity
+## 🟠 Brand Identity
 **blakusnaku analytics** emphasizes craftsmanship in data — where insight, design, and clarity meet.  
 This project embodies that ethos by turning raw data into a cohesive business narrative.
 
