@@ -9,6 +9,8 @@
 
 ---
 
+![Superstore Dashboard Preview](assets/superstore_dashboard_v1.png)
+
 ## 📊 Overview
 The **Superstore Sales Analytics Project** is an end-to-end Business Intelligence (BI) capstone built under the **blakusnaku analytics** brand.  
 It demonstrates the full analytics lifecycle — from **data cleaning** and **SQL validation** to **Python verification** and **Power BI storytelling** — with a focus on real-world business impact.
@@ -60,8 +62,6 @@ It demonstrates the full analytics lifecycle — from **data cleaning** and **SQ
 | **Category Profit Comparison (Clustered Bar)** | Identify which categories drive or lose profit |
 | **Top 5 & Bottom 5 States** | Pinpoint best/worst performers by profit |
 | **Yearly Sales Trend Line** | Temporal anchor for business growth analysis |
-
-![Superstore Dashboard Preview](assets/superstore_dashboard_v1.png)
 
 ---
 
